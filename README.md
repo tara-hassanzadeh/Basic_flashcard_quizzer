@@ -3,22 +3,36 @@ A simple console-based flashcard quiz application written in Python. This progra
 
 
 🚀 Features
+
 •	Simple and clear command-line interface
+
 •	Predefined flashcards (question-answer pairs)
+
 •	Real-time answer checking with case-insensitive comparison
+
 •	Score tracking
+
 •	Exit anytime by typing exit
 
 
  🎓 Learning Concepts Practiced
+ 
 •	Variables and data structures (lists, dictionaries)
+
 •	Looping through data with for loops
+
 •	Getting user input with input()
+
 •	Conditional statements (if, else)
+
 •	String methods for input processing (strip(), lower())
+
 •	Functions and modular code design
+
 •	Basic score tracking
+
 •	Simple command-line user interface
+
 •	Writing clear and user-friendly messages
 
 
@@ -34,4 +48,3 @@ Requirements
 4.  Run the script:
   ``` bash
     git clone https://github.com/tara-hassanzadeh/Basic-flashcard-quizzer.git
-  python quiz.py
